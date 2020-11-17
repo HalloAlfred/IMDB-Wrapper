@@ -1,6 +1,6 @@
 {
-  "homepage": "http://HalloAlfred.github.io/imdb-wrapper",
-  "name": "moviebox",
+  "homepage": "http://HalloAlfred.github.io/IMDB-Wrapper",
+  "name": "imdb-wrapper",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
